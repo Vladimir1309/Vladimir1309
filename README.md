@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=Vladimir1309&show_icons=true&include_all_commits=true&theme=dark_github"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Vladimir1309&langs_count=4&theme=dark_github"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Vladimir1309&langs_count=4&theme=dark_github" height="195"/>
 </div>
 
 <!--
