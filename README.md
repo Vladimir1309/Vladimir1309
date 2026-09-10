@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-<div>
-  <img src="https://github-stats-extended.vercel.app/api?username=Vladimir1309&show_icons=true&include_all_commits=true&theme=dark_github" align="center"/>
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Vladimir1309&show_icons=true&include_all_commits=true&theme=dark_github"/>
 </div>
 
 <!--
